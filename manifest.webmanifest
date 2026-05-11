@@ -1,0 +1,10 @@
+{
+  "name": "EdgeRadar Arbitrage Calculator",
+  "short_name": "EdgeRadar Calc",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f1419",
+  "theme_color": "#0f1419",
+  "icons": []
+}
